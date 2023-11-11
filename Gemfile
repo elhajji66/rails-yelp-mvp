@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+# Gemfile
+# [...]
+gem "simple_form"
 
 ruby "3.1.2"
 
